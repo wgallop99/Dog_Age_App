@@ -13,6 +13,7 @@
 		3CC3E37A1A085B42004C004E /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3CC3E3791A085B42004C004E /* Images.xcassets */; };
 		3CC3E37D1A085B42004C004E /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3CC3E37B1A085B42004C004E /* LaunchScreen.xib */; };
 		3CC3E3891A085B42004C004E /* Cat_AppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CC3E3881A085B42004C004E /* Cat_AppTests.swift */; };
+		3CC3E3931A085CEA004C004E /* There-are-plenty-of-reasons-why-two-dogs-are-better-than-one_16001188_800944310_0_14083585_500.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3CC3E3921A085CEA004C004E /* There-are-plenty-of-reasons-why-two-dogs-are-better-than-one_16001188_800944310_0_14083585_500.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		3CC3E3821A085B42004C004E /* Cat AppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Cat AppTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3CC3E3871A085B42004C004E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3CC3E3881A085B42004C004E /* Cat_AppTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cat_AppTests.swift; sourceTree = "<group>"; };
+		3CC3E3921A085CEA004C004E /* There-are-plenty-of-reasons-why-two-dogs-are-better-than-one_16001188_800944310_0_14083585_500.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "There-are-plenty-of-reasons-why-two-dogs-are-better-than-one_16001188_800944310_0_14083585_500.jpg"; path = "../../../../There-are-plenty-of-reasons-why-two-dogs-are-better-than-one_16001188_800944310_0_14083585_500.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +92,7 @@
 		3CC3E3701A085B42004C004E /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				3CC3E3921A085CEA004C004E /* There-are-plenty-of-reasons-why-two-dogs-are-better-than-one_16001188_800944310_0_14083585_500.jpg */,
 				3CC3E3711A085B42004C004E /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -193,6 +196,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3CC3E3781A085B42004C004E /* Main.storyboard in Resources */,
+				3CC3E3931A085CEA004C004E /* There-are-plenty-of-reasons-why-two-dogs-are-better-than-one_16001188_800944310_0_14083585_500.jpg in Resources */,
 				3CC3E37D1A085B42004C004E /* LaunchScreen.xib in Resources */,
 				3CC3E37A1A085B42004C004E /* Images.xcassets in Resources */,
 			);
